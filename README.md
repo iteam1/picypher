@@ -1,5 +1,5 @@
 # picypher
-a python module for encipher and decipher
+a C++ library for encipher and decipher
 
 ### references
 
